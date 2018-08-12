@@ -7,5 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Critical: make sure the latest version of [Node] (https://nodejs.org/en/) and [NPM](https://docs.npmjs.com/troubleshooting/try-the-latest-stable-version-of-npm) are installed.
 
 ### Running Locally:
-`npm install`
-`npm start`
+```
+npm install
+npm start
+```
