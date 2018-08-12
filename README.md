@@ -11,3 +11,9 @@ Critical: make sure the latest version of [Node] (https://nodejs.org/en/) and [N
 npm install
 npm start
 ```
+
+### Run with Docker
+```
+docker build -t promo-music-app .
+./run # CTRL-C to stop
+```

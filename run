@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker run -it --rm --name promo-music-app -p 3000:3000 promo-music-app
